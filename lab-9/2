@@ -1,0 +1,9 @@
+def get_reserved(list):
+  new list=[]
+  if len(newlist)==len(list)
+    return newlist
+  else:
+    num=0
+    newlist.append(list[len(list)]-num)
+    num+=1
+    return get_reserved()
